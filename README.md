@@ -5,7 +5,7 @@ GitHub Project Description for "MERN Documentation":
 
 Simplify your journey through the MERN (MongoDB, Express.js, React, Node.js) stack with our comprehensive documentation project! Whether you're a beginner looking to get started or an experienced developer seeking in-depth insights, we've got you covered.
 
-📦 Key Features:
+📦 Key Features: 
 
 1️⃣ Quick Start Guides: Jump right into MERN development with step-by-step setup instructions and sample code.
 
